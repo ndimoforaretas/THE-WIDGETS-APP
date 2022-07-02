@@ -1,3 +1,21 @@
+# THE WIDGETS APP
+
+## Description
+
+A Widget application with multiple components and a navigation that is used to switch between the different widget components
+
+### These components will be:
+
+- An Accordion component
+
+- A Wikipedia API search component
+
+- A Dropdown item selection component
+
+- A Google Translate API component
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
